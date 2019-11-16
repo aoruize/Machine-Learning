@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 16,
+    "python.pythonPath": "C:\\ProgramData\\Miniconda3\\python.exe"
+}
